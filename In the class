@@ -1,0 +1,18 @@
+#learn how to type hello in Bash, Python, R, C, C++, java
+#   bash   echo hello
+    python   print("hello")
+    R  print("hello")
+    c     #include <stdio.h>
+           int main()
+           { printf() displays
+             print ("hello");
+             return 0;
+            }
+    c++    #include <iostream>
+            using name std;
+            int main()
+           { cout <<"hello;
+              return 0;
+           }
+           
+  
